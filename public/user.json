@@ -1,0 +1,43 @@
+[
+    {
+        "id": "1",
+        "gender":"male",
+        "name": "mozahid1",
+        "contact": "6752",
+        "address": "new york",
+        "photoUrl": ""
+    },
+    
+    {
+        "id": "2",
+        "gender":"male",
+        "name": "mozahid2",
+        "contact": "4002",
+        "address": "new york",
+        "photoUrl": ""
+    },
+    {
+        "id": "3",
+        "gender":"male",
+        "name": "mozahid3",
+        "contact": "456757002",
+        "address": "new york",
+        "photoUrl": ""
+    },
+    {
+        "id": "4",
+        "gender":"male",
+        "name": "mozahid4",
+        "contact": "4056702",
+        "address": "new york",
+        "photoUrl": ""
+    },
+    {
+        "id": "5",
+        "gender":"male",
+        "name": "mozahid",
+        "contact": "5674002",
+        "address": "new york",
+        "photoUrl": ""
+    }
+]
